@@ -5,7 +5,7 @@ import Header from "./components/Header";
 export default function Home() {
   return (
     <div
-      className="bg-gray-50 h-screen
+      className=" bg-white h-screen
      overflow-y-scroll scrollbar-hide"
     >
       <Head>
